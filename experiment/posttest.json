@@ -2,35 +2,86 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What type of cells does the blue box indicate?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Monocytes",
+        "b": "Lymphocytes",
+        "c": "Granulocytes",
+        "d": "Cell debris"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which of the following samples can be analyzed with flow cytometry?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Blood",
+        "b": "Urine",
+        "c": "Saliva",
+        "d": "All of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is an application of flow cytometry?",
+      "answers": {
+        "a": "Visualizing the internal structure of cells",
+        "b": "Measuring the pH of a fluid sample",
+        "c": "Counting the number of bacteria in a sample",
+        "d": "Quantifying the amount of protein in a sample"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following statements is true about flow cytometry data analysis?",
+      "answers": {
+        "a": "The fluorescence intensity of each cell is measured and recorded as a histogram",
+        "b": "The forward scatter signal is used to measure the size of each cell",
+        "c": "The side scatter signal is used to measure the granularity of each cell",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following methods is used to sort cells or particles in flow cytometry?",
+      "answers": {
+        "a": "Gravity sedimentation",
+        "b": "Electrophoresis",
+        "c": "Electrostatic deflection",
+        "d": "Centrifugation"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
       "difficulty": "beginner"

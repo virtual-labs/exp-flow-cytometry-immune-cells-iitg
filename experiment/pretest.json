@@ -2,37 +2,105 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the purpose of flow cytometry?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To analyze the physical and chemical properties of cells and particles in a fluid sample",
+        "b": "To sequence DNA and RNA",
+        "c": "To visualize cells and tissues at the microscopic level",
+        "d": "To measure the mass of cells and particles in a sample"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What is the purpose of sheath fluid?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To lubricate the cells",
+        "b": "To position the sample of cells into a single file for optical interrogation",
+        "c": "To increase the speed of the flow",
+        "d": "To increase volume of the cellular mixture"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is not a component of a flow cytometer?",
+      "answers": {
+        "a": "Laser",
+        "b": "Fluidics system",
+        "c": "Microscope",
+        "d": "Detectors"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is forward scatter in flow cytometry?",
+      "answers": {
+        "a": "The measurement of light scattered at an angle to the laser beam",
+        "b": "The measurement of light emitted by fluorescent molecules in the sample",
+        "c": "The measurement of light scattered in the same direction as the laser beam",
+        "d": "The measurement of light transmitted through the sample"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is not typically measured in flow cytometry?",
+      "answers": {
+        "a": "Cell size",
+        "b": "Cell shape",
+        "c": "Cell surface markers",
+        "d": "Cell weight"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is fluorescence in flow cytometry?",
+      "answers": {
+        "a": "The measurement of light scattered at an angle to the laser beam",
+        "b": "The measurement of light emitted by fluorescent molecules in the sample",
+        "c": "The measurement of light scattered in the same direction as the laser beam",
+        "d": "The measurement of light transmitted through the sample"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
