@@ -20,7 +20,7 @@ Flow cytometry is a standard laser-based technology that is used in the detectio
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Sachin Kumar | Faculty | Biosciences and Bioengineering | IIT Guwahati | sachinku@iitg.ac.in
-2 | Anchit Prasad | Student | Department of Chemistry | IIT Guwahati | p.anchit@iitg.ac.in
+2 | Vedant Phad | Student |  Department of Chemistry | IIT Guwahati | v.phad@iitg.ac.in
 3 | Elika | Student | Biosciences and Bioengineering | IIT Guwahati | e.elika@iitg.ac.in
 4 | Rohit Suhas Kondaye | Student | Department of Design | IIT Guwahati | rohit.kondaye@iitg.ac.in
 5 | Sakshi Mallah | Student | Department of Design | IIT Guwahati | s.mallah@iitg.ac.in
