@@ -11,3 +11,4 @@
 | 3 | Elika | e.elika@iitg.ac.in | IIT Guwahati | Biosciences and Bioengineering |
 | 4 | Rohit Suhas Kondaye | rohit.kondaye@iitg.ac.in | IIT Guwahati | Department of Design |
 | 5 | Sakshi Mallah | s.mallah@iitg.ac.in | IIT Guwahati | Department of Design |
+| 6 | Shivam Kumar Roy | shivam.roy@iitg.ac.in | IIT Guwahati | Department of Design |
