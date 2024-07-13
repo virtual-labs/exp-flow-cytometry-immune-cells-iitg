@@ -27,7 +27,7 @@ The cells then pass through a series of fluorescence detectors that detect the p
 
 The flow cytometer generates a large amount of data, which is then analyzed using specialized software. The software can interpret the data to identify and quantify various properties of the cells, such as cell size, shape, and fluorescence intensity. The data can also be used to sort the cells based on these properties, allowing researchers to isolate specific populations of cells for further analysis.
 
-<br><img src="images/img13.png" alt="image" width="600" height="600">
+<br><div style="text-align: center;"><img src="images/img13.png" alt="image" width="600" height="600"></div>
 
 #### Sorting
 
