@@ -2,8 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What type of cells does the blue box indicate?",
-      "image":"<img src='./images/img14.png'/>",
+      "question": "What type of cells does the blue box indicate? $\\\\$ <img src='./images/img14.png' width='700' height='600'/>",  
       "answers": {
         "a": "Monocytes",
         "b": "Lymphocytes",
