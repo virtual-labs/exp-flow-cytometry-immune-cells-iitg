@@ -38,7 +38,7 @@ Optical system- This system comprises laser and lenses that help in focusing the
 Signal detection and processing system- This system converts the light signal into voltages that are then further recorded
 
 
-<br><div style="text-align: center;"><img src="images/img2.png" width="550" height="340"></div>
+<br><div style="text-align: center;"><img src="images/img2.png" width="400" height="400"></div>
 <br><div style="text-align: center;"><img src="images/7.png" width="550" height="300"></div>
 <br><div style="text-align: center;"><img src="images/8.png" width="550" height="300"></div>
 <br><div style="text-align: center;"><img src="images/9.png" width="550" height="300"></div>
