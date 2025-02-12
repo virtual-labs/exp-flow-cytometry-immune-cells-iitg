@@ -22,12 +22,15 @@ import { showTooltip } from './tooltip.js';
 import { hideTooltip } from './tooltip.js';
 
 document.getElementById('prev').style.display = 'none';
-document.getElementById('procedure_container').style.display = 'none';
+// document.getElementById('procedure_container').style.display = 'none';
 document.getElementById('extra-button').style.display = 'none';
-document.getElementById('procedure_title').style.display = 'none';
+// document.getElementById('procedure_title').style.display = 'none';
 
 document.getElementById('start').addEventListener('click', () => {
     loadAnimation();
+    if (document.getElementById('temp_container')){
+        document.getElementById('temp_container').style.display = 'none';
+    }
     document.getElementById('start').style.display = 'none';
     document.getElementById('play-all').style.display = 'inline-block';
     document.getElementById('next').style.display = 'inline-block';
@@ -117,6 +120,15 @@ document.getElementById('prev').addEventListener('click', () => {
 });
 
 document.addEventListener('DOMContentLoaded', (event) => {
+
+    lottie.loadAnimation({
+        container: document.getElementById('temp_container'),
+        renderer: 'svg',
+        loop: false,
+        autoplay: false,
+        path: animations[2]
+    });
+
     const proceduresContainer = document.getElementById('procedure_container');
 
     allProcedures = allProcedures.map((procedure, index) => {
@@ -131,6 +143,15 @@ document.addEventListener('DOMContentLoaded', (event) => {
         proceduresContainer.appendChild(procedureElement);
         return procedureElement;
     });
+
+    allProcedures.forEach((procedure, index) => {
+        if (index >= currentAnimation - 2 && index <= currentAnimation + 2) {
+            procedure.style.display = 'block';
+        } else {
+            procedure.style.display = 'none';
+        }
+
+    }); 
 });
 
 function loadAnimation() {
